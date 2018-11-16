@@ -96,3 +96,15 @@ yarn-error.log
 
 # build-analytics
 .build-analytics
+
+#vagrant
+.vagrant
+
+#vagrant file
+VagrantFile
+
+#bootstrap
+bootstrap.sh
+
+#package lock json
+package-lock.json
